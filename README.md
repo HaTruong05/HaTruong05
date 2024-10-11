@@ -8,7 +8,7 @@
 </p>
 
 ### 💬 About me
-I’m currently studying Computer Science at Union College. I'm passionate about creating impactful solutions as a developer or building exciting projects that everyone can enjoy, 
+I’m currently studying Computer Science at Union College. I'm passionate about creating impactful software or building exciting projects that everyone can enjoy, 
 regardless of their background. I'm especially excited about driving sustainability through innovative software. Feel free to explore some of my recent projects!
 
 ### 💬 Projects
