@@ -12,7 +12,7 @@ I’m currently studying Computer Science at Union College. I'm passionate about
 regardless of their background. I'm especially excited about driving sustainability through innovative software. Feel free to explore some of my recent projects!
 
 ### 💬 Projects
-- 🎮 [***Have some fun playing tic tac toe with a friend!***](https://hatruong05.github.io/JS-Tic-Tac-Toe/). *Features a sleek, modern UI in a dark theme.* [GitHub repo](https://github.com/HaTruong05/JS-Tic-Tac-Toe).
+- 🎮 [***Have some fun playing Tic Tac Toe with a friend!***](https://hatruong05.github.io/JS-Tic-Tac-Toe/). *Features a sleek, modern UI in a dark theme.* [GitHub repo](https://github.com/HaTruong05/JS-Tic-Tac-Toe).
 - 🧠 [***Generate videos with your mind!***](https://github.com/HaTruong05) *Convert your brainwave data into visual experiences with Mind Pixels.*
 - 🌪️ [***Identify climate risks in your area and find preventive solutions!***](https://github.com/MiguelPimentel97/crisp-x) [Front-end repo](https://github.com/Priyankaa2503/crisp-x-frontend).
 *Now being integrated into the Decarbonization Business Optimizer (DBO), this tool helps you pinpoint and address location-specific hazards to enhance structural resiliency.*
