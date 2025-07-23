@@ -18,7 +18,7 @@ regardless of their background. I'm especially excited about driving sustainabil
 *Now being integrated into the Decarbonization Business Optimizer (DBO), this tool helps you pinpoint and address location-specific hazards to enhance structural resiliency.*
 [Learn more!](https://www.siemens.com/us/en/company/press/siemens-stories/usa/decarbonization-business-optimizer-green-power-siemens.html)
 or [Try for free here!](https://www.dbo.siemens.com/projects)
-- 🐂 [***A fun finance/NYSE-themed parody restaurant website!***](https://hatruong05.github.io/restaurant-page/) *Features stock puns and a menu inspired by market trends and stock tickers.* [GitHub repo](https://github.com/HaTruong05/restaurant-page).
+- 🐂 [***A fun finance/NYSE-themed parody restaurant website!***](https://hatruong05.github.io/restaurant-page/) *Features stock puns, a menu inspired by market trends and stock tickers, and opening times that model the NYSE's.* [GitHub repo](https://github.com/HaTruong05/restaurant-page).
 - 🎮 [***A glimpse into the Dota 2 Esports scene!***](https://github.com/HaTruong05/Dota-2-Esports/blob/main/Dota2_Project.ipynb) *Is competitive programming as rewarding as portrayed by the media?*
 
 ### 💬 Currently learning
